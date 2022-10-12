@@ -16,3 +16,8 @@
 * {
   scroll-behavior: smooth;
 }
+
+img {
+  width: 200px;
+  height: 226px;
+}

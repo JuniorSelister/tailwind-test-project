@@ -4,23 +4,23 @@ const coffeeInfo = [
   {
     id: 1,
     img: bag_caramelo,
-    coffe_name: "Baggio Caramelo",
+    coffeeName: "Baggio Caramelo",
     producer: "Baggio",
     weight: "250g",
     qt: 1,
     db: "07/10/2022",
     de: "03/03/2023"
   },
-  {
-    id: 2,
-    img: bag_choco_menta,
-    coffe_name: "Baggio Chocolate com Menta",
-    producer: "Baggio",
-    weight: "250g",
-    qt: 1,
-    db: "07/10/2022",
-    de: "03/03/2023"
-  },
+  // {
+  //   id: 2,
+  //   img: bag_choco_menta,
+  //   coffe_name: "Baggio Chocolate com Menta",
+  //   producer: "Baggio",
+  //   weight: "250g",
+  //   qt: 1,
+  //   db: "07/10/2022",
+  //   de: "03/03/2023"
+  // },
   {
     id: 3,
     img: bag_choco_moido,
